@@ -92,9 +92,20 @@ This research compares five different architectures:
 * `GRU`: Gated Recurrent Units.
 * `Transformer`: Attention-based architecture for global context.
 
+---
 
+## 📜 Citation
 
+If you use this code or the findings in your research, please cite our paper:
 
-
+```text
+@article{yourname2024fft,
+  title={FFT Transformed MFCC Audio MOS Prediction},
+  author={Duman, Mustafa Ozan and Dirik, Ahmet Emir},
+  journal={Your Journal/Conference Name},
+  year={2026},
+  doi={Your_DOI_Link}
+}
+```
 
 
